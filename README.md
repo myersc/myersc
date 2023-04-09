@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myersc
 - 👀 I’m interested in Type 1 Diabetes Tech - Nightscout, Loop, etc
 - 🌱 I’m currently learning life lessons
-- 💞️ I’m looking to collaborate on something I can support with little to no coding knowledge that benefits humanity, diabetics, rainbows, lolliops, and sunshine.
+- 💞️ I’m looking to collaborate on something I can support with little to no coding knowledge that benefits humanity, diabetics, rainbows, lollipops, and sunshine.
 - 📫 I only get on github semianually, maybe quarterly ... so good luck.
 
 <!---
